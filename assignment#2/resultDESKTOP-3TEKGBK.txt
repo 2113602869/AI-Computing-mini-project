@@ -1,0 +1,6 @@
+container:container4parallelprocessingDESKTOP-3TEKGBK
+sum:270.0
+average:2.5714285714285716
+max_value:4.0
+min_value:1.0
+standard deviation:1.1699177248820523
